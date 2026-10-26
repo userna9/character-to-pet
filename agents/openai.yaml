@@ -1,0 +1,4 @@
+interface:
+  display_name: "角色桌宠工坊"
+  short_description: "从人物描述出发，检索参考、协商定稿、生成动画素材包并创建 ChatGPT 桌宠"
+  default_prompt: "使用 $character-to-pet，检索我描述的人物形象，先给参考方案确认，再制作动画桌宠和完整素材包。"
